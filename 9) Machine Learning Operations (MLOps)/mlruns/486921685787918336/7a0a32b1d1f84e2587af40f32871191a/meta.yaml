@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/PythonMetaRepo/Exam_Data-Things/9%29%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/486921685787918336/7a0a32b1d1f84e2587af40f32871191a/artifacts
+end_time: 1755213797581
+entry_point_name: ''
+experiment_id: '486921685787918336'
+lifecycle_stage: active
+run_id: 7a0a32b1d1f84e2587af40f32871191a
+run_name: Linear Regression | calendar+lags+rolling_means | 2017-01-01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755213795142
+status: 3
+tags: []
+user_id: sebas

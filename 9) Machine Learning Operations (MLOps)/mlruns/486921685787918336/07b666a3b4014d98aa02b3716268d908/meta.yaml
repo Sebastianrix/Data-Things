@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/PythonMetaRepo/Exam_Data-Things/9%29%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/486921685787918336/07b666a3b4014d98aa02b3716268d908/artifacts
+end_time: 1755213782762
+entry_point_name: ''
+experiment_id: '486921685787918336'
+lifecycle_stage: active
+run_id: 07b666a3b4014d98aa02b3716268d908
+run_name: Random Forest | calendar+lags | 2017-01-01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755213741162
+status: 3
+tags: []
+user_id: sebas

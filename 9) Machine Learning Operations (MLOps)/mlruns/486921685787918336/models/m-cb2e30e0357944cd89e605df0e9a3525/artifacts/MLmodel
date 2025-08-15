@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/sebas/Desktop/PythonMetaRepo/Exam_Data-Things/9%29%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/486921685787918336/models/m-cb2e30e0357944cd89e605df0e9a3525/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-cb2e30e0357944cd89e605df0e9a3525
+model_size_bytes: 2001453725
+model_uuid: m-cb2e30e0357944cd89e605df0e9a3525
+prompts: null
+run_id: 7db86302690f48679f2c3380fa79bf33
+utc_time_created: '2025-08-14 23:26:44.329889'

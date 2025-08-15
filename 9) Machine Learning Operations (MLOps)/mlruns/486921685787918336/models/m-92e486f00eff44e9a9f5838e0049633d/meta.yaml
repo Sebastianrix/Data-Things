@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/sebas/Desktop/PythonMetaRepo/Exam_Data-Things/9%29%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/486921685787918336/models/m-92e486f00eff44e9a9f5838e0049633d/artifacts
+creation_timestamp: 1755214469851
+experiment_id: '486921685787918336'
+last_updated_timestamp: 1755214471945
+model_id: m-92e486f00eff44e9a9f5838e0049633d
+model_type: null
+name: model
+source_run_id: 629f4b87d3f84c25bff11f0045c78159
+status: 2
+status_message: null

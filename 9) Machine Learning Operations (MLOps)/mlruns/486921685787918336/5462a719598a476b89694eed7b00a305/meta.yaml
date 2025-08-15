@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/PythonMetaRepo/Exam_Data-Things/9%29%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/486921685787918336/5462a719598a476b89694eed7b00a305/artifacts
+end_time: 1755214684198
+entry_point_name: ''
+experiment_id: '486921685787918336'
+lifecycle_stage: active
+run_id: 5462a719598a476b89694eed7b00a305
+run_name: XGBoost | calendar+lags+rolling_means+rolling_stds | 2017-07-01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755214680405
+status: 3
+tags: []
+user_id: sebas
